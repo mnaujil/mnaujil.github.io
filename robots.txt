@@ -1,0 +1,13 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://mnaujil.github.io/BNepr.txt
+Sitemap: https://mnaujil.github.io/FLscT.txt
+Sitemap: https://mnaujil.github.io/TIwdA.txt
+Sitemap: https://mnaujil.github.io/ZesBQ.txt
+Sitemap: https://mnaujil.github.io/fNAts.txt
+Sitemap: https://mnaujil.github.io/iSNKd.txt
+Sitemap: https://mnaujil.github.io/msQwN.txt
+Sitemap: https://mnaujil.github.io/pXyBP.txt
+Sitemap: https://mnaujil.github.io/qgEQK.txt
+Sitemap: https://mnaujil.github.io/reYOg.txt
